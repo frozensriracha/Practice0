@@ -5,7 +5,7 @@ tools that will require some initial configuration.
 
 ===========
 
-1. To start, [**fork** repository][forking] [fdac24/Practice0][assignment]
+1. To start, [**fork** repository][forking] [fdac25/Practice0][assignment]
 1. Go to https://colab.google/ nd click on "New notebook" and "File/Open
 notebook"
 1. Select github and your fork of Practice0 notebook
@@ -15,11 +15,11 @@ notebook"
 1. Now select File/Save a copy on GitHub
 1. At https://github.com/USERNAME/Practice0
    Create a [**pull request**][pull-request] to merge your notebook with the
-   original repository [fdac24/Practice0][assignment]  to
+   original repository [fdac25/Practice0][assignment]  to
    turn in the assignment.
 
 
-[assignment]: https://github.com/fdac24/Practice0
+[assignment]: https://github.com/fdac25/Practice0
 [forking]: https://guides.github.com/activities/forking/
 [ref-clone]: http://gitref.org/creating/#clone
 [ref-commit]: http://gitref.org/basic/#commit
